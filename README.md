@@ -3,4 +3,4 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 Source https://app.datacamp.com/learn/projects/discovery-of-handwashing
 
-To see the project open notebook.ipynb
+To see the project open notebook.ipynb.
