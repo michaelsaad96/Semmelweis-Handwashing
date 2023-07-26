@@ -5,4 +5,4 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 
 Source https://app.datacamp.com/learn/projects/discovery-of-handwashing
 ## How to Run this Project
-Open notebook.ipynb.
+Open `notebook.ipynb`.
